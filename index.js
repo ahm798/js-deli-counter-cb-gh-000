@@ -17,5 +17,5 @@ function currentLine(arr){
 }
 
 function nowServing(arr){
-    return `Currently serving ${arr.shift()}`;
+    return `Currently serving ${arr.shift()}.`;
 }
